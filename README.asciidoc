@@ -1,0 +1,45 @@
+Chess pieces detection using YOLOV3
+
+This is a example of using YOLOV3 to perform chess pieces detection whit a very small dataset. 
+
+The model is traind on images from www.chess.com.
+
+For a more generalized model a black and white dataset can be used.
+
+Detection white YOLOV3
+----
+
+First clone this Darknet repostory
+
+https://github.com/AlexeyAB/darknet  
+
+Coppy the folder “ChessPieces” into the subfolder “data” in to the darnet folder.
+
+The directory haze to look like this:
+
+- darnet
+	-chess.names
+	-test.png
+	-testChess.txt
+	-trainChess.txt
+	-backup
+		-chess-yolov3.weights
+	-cfg
+		-chess.data
+		-chess-yolov3.cfg
+	-data
+		-ChessPieces
+
+Then run the following commands to test the model.
+
+Make
+
+./darknet detector test cfg/chess.data cfg/chess-yolov3.cfg backup/chess-yolov3.weights test.png
+----
+
+Training a custom model with YOLOV3
+----
+Setup your directory as explained above. Then run this command:
+
+./darknet detector test cfg/chess.data cfg/chess-yolov3.cfg backup/chess-yolov3.weights test.png
+----
