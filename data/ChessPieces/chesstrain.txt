@@ -1,0 +1,32 @@
+data/ChessPieces/Screenshot from 2019-10-11 14-06-01.jpg
+data/ChessPieces/RB1.jpg
+data/ChessPieces/PB.jpg
+data/ChessPieces/NB.jpg
+data/ChessPieces/BW1.jpg
+data/ChessPieces/PW1.jpg
+data/ChessPieces/PW.jpg
+data/ChessPieces/QW1.jpg
+data/ChessPieces/QB.jpg
+data/ChessPieces/KB1.jpg
+data/ChessPieces/BW.jpg
+data/ChessPieces/NW.jpg
+data/ChessPieces/RW.jpg
+data/ChessPieces/QW.jpg
+data/ChessPieces/BB1.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-06-51.jpg
+data/ChessPieces/RB.jpg
+data/ChessPieces/NW1.jpg
+data/ChessPieces/KB.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-07-11.jpg
+data/ChessPieces/BB.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-07-57.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-07-43.jpg
+data/ChessPieces/RW1.jpg
+data/ChessPieces/KW.jpg
+data/ChessPieces/NB1.jpg
+data/ChessPieces/KW1.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-07-27.jpg
+data/ChessPieces/PB1.jpg
+data/ChessPieces/QB1.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-08-11.jpg
+data/ChessPieces/Screenshot from 2019-10-11 14-06-35.jpg
