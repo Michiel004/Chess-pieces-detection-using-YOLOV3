@@ -46,6 +46,6 @@ Setup your directory as explained above. Then run this command:
 
 
 Example of chess pieces detection
-----
+
 image::predictions.jpg[Example of chess pieces detection]
-----
+
