@@ -43,3 +43,9 @@ Setup your directory as explained above. Then run this command:
 
 ./darknet detector test cfg/chess.data cfg/chess-yolov3.cfg backup/chess-yolov3.weights test.png
 ----
+
+
+Example of chess pieces detection
+----
+image::predictions.jpg[Example of chess pieces detection]
+----
